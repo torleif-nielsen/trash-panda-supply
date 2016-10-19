@@ -1,3 +1,8 @@
+Trash Panda Supply
+==================
+
+This is a simple PHP playground for the purpose of playing with Scotchbox.
+
 Scotch Box
 ==========
 
