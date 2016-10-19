@@ -67,7 +67,10 @@
               <label class="mdl-textfield__label" for="username">Address</label>
             </div>
             <br>
-            <button type="submit" name="submit_form" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored mdl-js-ripple-effect">
+            <button type="submit" name="submit_form"
+              class="mdl-button mdl-js-button
+              mdl-button--raised mdl-button--colored
+              mdl-js-ripple-effect">
               Submit
             </button>
           </form>
